@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+	<channel>
+		<title>iOS Repo Updates</title>
+		<atom:link href="https://www.ios-repo-updates.com/feed/repository/bigboss/" rel="self" type="application/rss+xml" />
+		<link>https://www.ios-repo-updates.com/</link>
+		<description>iOS Repo Updates • Cydia iOS Repository Updates for Jailbroken iPhone iPad or iPod</description>
+		<language>en-us</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<image>
+			<title>iOS Repo Updates</title>
+			<url>https://www.ios-repo-updates.com/CydiaIcon.png</url>
+			<link>https://www.ios-repo-updates.com/</link>
+			<description>iOS Repo Updates • Cydia iOS Repository Updates for Jailbroken iPhone iPad or iPod</description>
+			<width>80</width>
+			<height>80</height>
+		</image>
+			<item>
+				<title>Respring Helper(重启桌面)-restart SpringBoard • 1.5.2 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.respringhelper/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.respringhelper/740293/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Wed, 24 May 2023 13:35:41 GMT</pubDate>
+				<description><![CDATA[App which restarts SpringBoard by one click.]]></description>
+				<dc:creator><![CDATA[Joe Bruce ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>虚拟定位助手 - 系统GPS定位修改器，GPS Faker，模拟全球天下游， • 5.6.8 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/me.liuming.locationhelper/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/me.liuming.locationhelper/740292/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Wed, 24 May 2023 13:35:40 GMT</pubDate>
+				<description><![CDATA[GPS Location Faker, 轻松修改系统位置。]]></description>
+				<dc:creator><![CDATA[mingfaker ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>PauseOnMute • 1.2.4 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.pauseonmute/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.pauseonmute/740291/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Wed, 24 May 2023 13:35:27 GMT</pubDate>
+				<description><![CDATA[Automatically pauses/resume music when you turn down the volume to 0]]></description>
+				<dc:creator><![CDATA[KingPuffdaddi ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>LowPowerDND • 1.1.5 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.lowpowerdnd/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.lowpowerdnd/740289/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Wed, 24 May 2023 13:35:27 GMT</pubDate>
+				<description><![CDATA[Enable Low Power Mode, when enabling DND]]></description>
+				<dc:creator><![CDATA[KingPuffdaddi ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>Notif • 1.1.3 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.notif/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.notif/740290/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Wed, 24 May 2023 13:35:27 GMT</pubDate>
+				<description><![CDATA[Always show notification history on lock screen]]></description>
+				<dc:creator><![CDATA[KingPuffdaddi ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>IPonCC • 1.6 • iOS • Addons • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/u.blanxd.iponcc/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/u.blanxd.iponcc/740188/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 22 May 2023 14:15:57 GMT</pubDate>
+				<description><![CDATA[Show IP info in CC]]></description>
+				<dc:creator><![CDATA[BlanxdH ]]></dc:creator>
+				<category><![CDATA[Addons]]></category>
+			</item>
+			<item>
+				<title>FakeQRCode(二维码替换)-scan pseudo barcode • 1.2.8 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.fakeqrcode/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.fakeqrcode/740068/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Sat, 20 May 2023 16:30:58 GMT</pubDate>
+				<description><![CDATA[Fake Qrcode...]]></description>
+				<dc:creator><![CDATA[Joe Bruce ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>Color3DIcons • 1.0.2 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.color3dicons/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.color3dicons/740066/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Sat, 20 May 2023 16:30:25 GMT</pubDate>
+				<description><![CDATA[Color 3D Touch Menus!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>IPDisabledTextAddress • 1.0.0 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.ipdisabledtextaddress/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.ipdisabledtextaddress/740067/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Sat, 20 May 2023 16:30:25 GMT</pubDate>
+				<description><![CDATA[Show IP Address on LS Disabled Menu Text!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>GPS Manager(GPS定位管家) • 2.2.5 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/jb.acc.gpsmanager/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/jb.acc.gpsmanager/739753/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Thu, 18 May 2023 22:00:42 GMT</pubDate>
+				<description><![CDATA[Configure APP&#x27;s fake GPS location wherever you like. GPS定位管家，可设置应用的虚拟定位，随时随地定位修改位置。]]></description>
+				<dc:creator><![CDATA[chencong ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>酸果 - SG WX美化增强工具 • 5.3.3-1 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/org.thebigboss.sutuplus/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/org.thebigboss.sutuplus/739574/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Tue, 16 May 2023 20:55:53 GMT</pubDate>
+				<description><![CDATA[本插件安装包来自苏兔源]]></description>
+				<dc:creator><![CDATA[Carby ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>UninstallGuard(卸载守护者) - forbid removing Apps • 1.5.6 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.uninstallguard/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.uninstallguard/739573/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Tue, 16 May 2023 20:55:43 GMT</pubDate>
+				<description><![CDATA[Uninstall Guard can be able to forbid the Apps to be uninstalled. So avoid the Apps you care about (like Facebook, WhatsApp, Line, Pokemon GO, WeChat, Messenger), deleted by children, others or by mistake operations.卸载守护者，能够设定应用不可卸载。从而避免你关心的应用（微信、支付宝、抖音），被小孩、他人或误操作而删除。]]></description>
+				<dc:creator><![CDATA[Joe Bruce ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>HotspotQR • 1.1.3 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.hotspotqr/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.hotspotqr/739571/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Tue, 16 May 2023 20:55:29 GMT</pubDate>
+				<description><![CDATA[Generate a QR Code for your personal hotspot directly in the settings]]></description>
+				<dc:creator><![CDATA[KingPuffdaddi ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>WiFiQR • 1.1.1 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.wifiqr/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.wifiqr/739572/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Tue, 16 May 2023 20:55:29 GMT</pubDate>
+				<description><![CDATA[Generate a QR code for WiFi networks directly from the settings]]></description>
+				<dc:creator><![CDATA[KingPuffdaddi ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行 • 3.9.7 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/topme.ios.fakegps/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/topme.ios.fakegps/739469/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 15 May 2023 22:46:11 GMT</pubDate>
+				<description><![CDATA[定位修改大师，Fake GPS Location, 360度全球虚拟定位到想要的任何地方。]]></description>
+				<dc:creator><![CDATA[suifeng ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>MyCCStatusLabel • 1.0.1 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.myccstatuslabel/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.myccstatuslabel/739468/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 15 May 2023 22:45:33 GMT</pubDate>
+				<description><![CDATA[Custom Colors/Options for CC Status Label &amp; More!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>网页视频下载器Web Video Downloader-缓存网站视频 • 2.7.1 • iOS • Multimedia • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/ios.cajb.videodownloader/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/ios.cajb.videodownloader/739319/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Sun, 14 May 2023 12:40:45 GMT</pubDate>
+				<description><![CDATA[Web Video Downloader. 缓存下载视频，离线播放。看视频、看电影、看连续剧，更快更爽更自由！]]></description>
+				<dc:creator><![CDATA[yangguang ]]></dc:creator>
+				<category><![CDATA[Multimedia]]></category>
+			</item>
+			<item>
+				<title>CCVPN • 1.0.6 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.control-center.ccvpn/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.control-center.ccvpn/739170/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Sat, 13 May 2023 20:55:31 GMT</pubDate>
+				<description><![CDATA[A Control Center Module to connect/disconnect VPN]]></description>
+				<dc:creator><![CDATA[KingPuffdaddi ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>CCVibration • 1.0.4 • iOS • Addons • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.control-center.ccvibration/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.control-center.ccvibration/739169/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Sat, 13 May 2023 20:55:31 GMT</pubDate>
+				<description><![CDATA[A Control Center Module to enable/disable vibration]]></description>
+				<dc:creator><![CDATA[KingPuffdaddi ]]></dc:creator>
+				<category><![CDATA[Addons]]></category>
+			</item>
+			<item>
+				<title>CCVibration • 1.0.3 • iOS • Addons • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.control-center.ccvibration/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.control-center.ccvibration/739067/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Fri, 12 May 2023 21:55:33 GMT</pubDate>
+				<description><![CDATA[A Control Center Module to enable/disable vibration]]></description>
+				<dc:creator><![CDATA[KingPuffdaddi ]]></dc:creator>
+				<category><![CDATA[Addons]]></category>
+			</item>
+			<item>
+				<title>CCLessStatusBAR • 1.0.4 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.cclessstatusbar/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.cclessstatusbar/739065/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Fri, 12 May 2023 21:55:24 GMT</pubDate>
+				<description><![CDATA[Hide the Status Bar and the Chevron on the Control Center!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>FastDeleteKey • 1.0.3 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.fastdeletekey/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.fastdeletekey/739066/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Fri, 12 May 2023 21:55:24 GMT</pubDate>
+				<description><![CDATA[Custom Characters Deletion Fast Speed on Keyboard!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>GPS Master(GPS定位大师)-Fake Navigation,Location Spoofer • 2.1.6 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.gpsmaster/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.gpsmaster/738842/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Thu, 11 May 2023 20:45:45 GMT</pubDate>
+				<description><![CDATA[GPS Master can fake your iOS device&#x27;s GPS location like you are driving between two places.]]></description>
+				<dc:creator><![CDATA[Joe Bruce ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>FakePicture(拍照替换)-taking pseudo selfie • 1.8.2 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.fakepicture/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.fakepicture/738841/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Thu, 11 May 2023 20:45:45 GMT</pubDate>
+				<description><![CDATA[Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera. So the app will get a replaced image which you set. It&#x27;s a good way to protect your privacy. 虚拟拍照，能够替换应用请求摄像头拍照的图片，让应用得到任意你设置的照片。它是一个魔法相机，实现模拟照相机功能，从而保护你的个人相片隐私。]]></description>
+				<dc:creator><![CDATA[Joe Bruce ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>虚拟定位专家(GPS Faker Expert)-模拟导航，扫街 • 3.2.9 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/me.liuming.locationexpert/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/me.liuming.locationexpert/738840/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Thu, 11 May 2023 20:45:44 GMT</pubDate>
+				<description><![CDATA[虚拟定位专家，模拟导航和GPS定位。]]></description>
+				<dc:creator><![CDATA[liuming ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>虚拟定位专家(GPS Faker Expert)-模拟导航，扫街 • 3.2.8 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/me.liuming.locationexpert/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/me.liuming.locationexpert/738827/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Thu, 11 May 2023 17:50:43 GMT</pubDate>
+				<description><![CDATA[虚拟定位专家，模拟导航和GPS定位。]]></description>
+				<dc:creator><![CDATA[liuming ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>网页视频下载器Web Video Downloader-缓存网站视频 • 2.7.0 • iOS • Multimedia • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/ios.cajb.videodownloader/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/ios.cajb.videodownloader/738826/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Thu, 11 May 2023 17:50:42 GMT</pubDate>
+				<description><![CDATA[Web Video Downloader. 缓存下载视频，离线播放。看视频、看电影、看连续剧，更快更爽更自由！]]></description>
+				<dc:creator><![CDATA[yangguang ]]></dc:creator>
+				<category><![CDATA[Multimedia]]></category>
+			</item>
+			<item>
+				<title>CCVPN • 1.0.5 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.control-center.ccvpn/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.kingpuffdaddi.control-center.ccvpn/738825/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Thu, 11 May 2023 17:50:29 GMT</pubDate>
+				<description><![CDATA[A Control Center Module to connect/disconnect VPN]]></description>
+				<dc:creator><![CDATA[KingPuffdaddi ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>GPS Master(GPS定位大师)-Fake Navigation,Location Spoofer • 2.1.5 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.gpsmaster/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.gpsmaster/738658/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Wed, 10 May 2023 12:00:49 GMT</pubDate>
+				<description><![CDATA[GPS Master can fake your iOS device&#x27;s GPS location like you are driving between two places.]]></description>
+				<dc:creator><![CDATA[Joe Bruce ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>FakePicture(拍照替换)-taking pseudo selfie • 1.8.1 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.fakepicture/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.fakepicture/738657/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Wed, 10 May 2023 12:00:49 GMT</pubDate>
+				<description><![CDATA[Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera. So the app will get a replaced image which you set. It&#x27;s a good way to protect your privacy. 虚拟拍照，能够替换应用请求摄像头拍照的图片，让应用得到任意你设置的照片。它是一个魔法相机，实现模拟照相机功能，从而保护你的个人相片隐私。]]></description>
+				<dc:creator><![CDATA[Joe Bruce ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>libSandy • 1.1.1 • iOS • System • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.opa334.libsandy/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.opa334.libsandy/738655/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Wed, 10 May 2023 12:00:37 GMT</pubDate>
+				<description><![CDATA[Securely extend the sandbox of system processes and user applications]]></description>
+				<dc:creator><![CDATA[opa334 ]]></dc:creator>
+				<category><![CDATA[System]]></category>
+			</item>
+			<item>
+				<title>GPS Master(GPS定位大师)-Fake Navigation,Location Spoofer • 2.1.4 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.gpsmaster/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/net.joebruce.gpsmaster/738498/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Tue, 09 May 2023 16:50:41 GMT</pubDate>
+				<description><![CDATA[GPS Master can fake your iOS device&#x27;s GPS location like you are driving between two places.]]></description>
+				<dc:creator><![CDATA[Joe Bruce ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>App Hider(应用隐藏助手)-Make Apps disappeared from SpringBoard • 2.1.7 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/me.liuming.apphider/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/me.liuming.apphider/738431/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 08 May 2023 14:45:44 GMT</pubDate>
+				<description><![CDATA[Hide your Apps from SpringBoard App Hider can hide your Apps from SpringBoard like the Apps are disappeared from your iPhone. So you can hide the Apps which you don&#x27;t want to let others know. Hiding the Cydia, just like your iOS device is not jailbroken. Hiding the Facebook, instagram, Twitter, so that no one knows. GuestMode can be set by using group feature. App隐藏助手，能够隐藏(屏蔽、隐身)你的应用，使得他人并不知道你安装的应用，从而保护你的隐私。通过分组功能，能够实现访客模式（来宾模式）。アプリケーションを隠す. ANWENDUNG ausblenden. 응용 프로그램 숨기기.]]></description>
+				<dc:creator><![CDATA[liuming ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>libSandy • 1.1 • iOS • System • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.opa334.libsandy/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.opa334.libsandy/738430/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 08 May 2023 14:45:34 GMT</pubDate>
+				<description><![CDATA[Securely extend the sandbox of system processes and user applications]]></description>
+				<dc:creator><![CDATA[opa334 ]]></dc:creator>
+				<category><![CDATA[System]]></category>
+			</item>
+			<item>
+				<title>SpringAnimations • 1.1.1 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.springanimations/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.springanimations/738429/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 08 May 2023 14:45:21 GMT</pubDate>
+				<description><![CDATA[Nice SpringBoard Animations Effects on iOS 11-15!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>Cthulhu • 1.0.9 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.cthulhu/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.cthulhu/738428/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 08 May 2023 14:45:21 GMT</pubDate>
+				<description><![CDATA[Custom Text below Press Home to Open/Swipe up to Unlock &amp; More!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>SmoothLockX • 1.4.8 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.smoothlockx/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.smoothlockx/737862/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Fri, 05 May 2023 17:55:22 GMT</pubDate>
+				<description><![CDATA[Give Smooth and Clean Views to the LockScreen on the iPhone X!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>Marina • 1.2.2 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.marina/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.marina/737861/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Fri, 05 May 2023 17:55:22 GMT</pubDate>
+				<description><![CDATA[Change the Numbers of the Icons of the Dock &amp; More!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>ByeHomeBottomBarX • 1.3.4 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.byehomebottombarx/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.byehomebottombarx/737860/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Fri, 05 May 2023 17:55:21 GMT</pubDate>
+				<description><![CDATA[Remove/Fade Away the Ugly Home Bottom Bar of the iPhone X!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>PMP • 1.7 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/pro.ikghd.pmp/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/pro.ikghd.pmp/737833/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Fri, 05 May 2023 14:15:55 GMT</pubDate>
+				<description><![CDATA[PMP Protect My Photos!]]></description>
+				<dc:creator><![CDATA[iKG_HD ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>iKSettings • 3.3 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/pro.ikghd.ikset/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/pro.ikghd.ikset/737829/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Fri, 05 May 2023 13:31:01 GMT</pubDate>
+				<description><![CDATA[Redefined Settings app!]]></description>
+				<dc:creator><![CDATA[iKarwan ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>Choicy • 1.4.8 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.opa334.choicy/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.opa334.choicy/737708/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Thu, 04 May 2023 13:30:38 GMT</pubDate>
+				<description><![CDATA[Advanced Tweak Configuration!]]></description>
+				<dc:creator><![CDATA[opa334 ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>ShyCC • 1.0.1 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.shycc/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.shycc/737707/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Thu, 04 May 2023 13:30:24 GMT</pubDate>
+				<description><![CDATA[Disable CC Gesture Everywhere &amp; More!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>酸果 - SG WX美化增强工具 • 5.3.2-1 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/org.thebigboss.sutuplus/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/org.thebigboss.sutuplus/735870/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Sat, 29 Apr 2023 16:15:51 GMT</pubDate>
+				<description><![CDATA[本插件安装包来自苏兔源]]></description>
+				<dc:creator><![CDATA[Carby ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>Ermete • 1.0.4 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.ermete/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.cydiageek.ermete/735869/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Sat, 29 Apr 2023 16:15:19 GMT</pubDate>
+				<description><![CDATA[Adjustable Speed Effects opening/closing Apps/Switcher!]]></description>
+				<dc:creator><![CDATA[CydiaGeek ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>Whatsapp Revael • 10.16-1 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/org.thebigboss.whatsapprevael/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/org.thebigboss.whatsapprevael/735423/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Wed, 26 Apr 2023 14:55:53 GMT</pubDate>
+				<description><![CDATA[Many features of the WhatsApp application]]></description>
+				<dc:creator><![CDATA[Ahmad Mokadam ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>361一键新机(MultiAccount Master)-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串 • 2.3 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/cn.tinyapps.rst/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/cn.tinyapps.rst/735388/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Tue, 25 Apr 2023 15:45:17 GMT</pubDate>
+				<description><![CDATA[MultiAccount Master(361一键新机)-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever.]]></description>
+				<dc:creator><![CDATA[Tinyapps.cn ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>Sleeper (Legacy) • 7.0.2 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/org.thebigboss.sleeper/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/org.thebigboss.sleeper/735329/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 24 Apr 2023 13:35:50 GMT</pubDate>
+				<description><![CDATA[Set custom snooze times and skip alarms with the Clock app using Sleeper!]]></description>
+				<dc:creator><![CDATA[Joshua Seltzer ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>PodsGrant • 0.2.3 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/com.lns.pogr/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/com.lns.pogr/735328/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 24 Apr 2023 13:35:27 GMT</pubDate>
+				<description><![CDATA[Treat AirPods Pro 2 correctly]]></description>
+				<dc:creator><![CDATA[Ruphane ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+			<item>
+				<title>360虚拟定位[企业版](Fake Location Pro) • 3.0 • iOS • Tweaks • BigBoss</title>
+				<link>https://www.ios-repo-updates.com/repository/bigboss/package/cn.tinyapps.location360pro/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</link>
+				<guid>https://www.ios-repo-updates.com/repository/bigboss/package/cn.tinyapps.location360pro/735327/?utm_source=ios-repo-updates&amp;utm_medium=rss&amp;utm_campaign=repository</guid>
+				<pubDate>Mon, 24 Apr 2023 13:35:11 GMT</pubDate>
+				<description><![CDATA[Fake Location Pro. for iOS 5.1.1~16.4 Supports 3 location-faking modes:STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.]]></description>
+				<dc:creator><![CDATA[Tinyapps.cn ]]></dc:creator>
+				<category><![CDATA[Tweaks]]></category>
+			</item>
+	</channel>
+</rss>
